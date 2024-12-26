@@ -1,0 +1,2 @@
+nim r src/ivap.nim ~/Pictures/
+nimble run
